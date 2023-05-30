@@ -1,0 +1,13 @@
+a=int(input("enter the value of box= "))
+b=int(input("enter the value of bottom x= "))
+c=int(input("enter the value of bottom y= "))
+d=int(input("enter the value of top x= "))
+e=int(input("enter the value of top y= "))
+f=int(input("enter the special power= "))
+g=int(input("enter the value of bottom x= "))
+h=int(input("enter the value of bottom y= "))
+i=int(input("enter the value of top x= "))
+j=int(input("enter the value of top y= "))
+k=int(input("enter the special power= "))
+list=[[]]
+print(list)
